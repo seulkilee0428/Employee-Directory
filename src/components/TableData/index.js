@@ -6,8 +6,8 @@ function TableData(props) {
         <table className="employeeTable">
             <thead>
                 <tr>
-                    <th></th>
-                    <th onClick={props.sortByName}></th>
+                    <th>Image</th>
+                    <th onClick={props.sortByName}>Name</th>
                     <th>Phone</th>
                     <th>E-mail</th>
                     <th>DOB</th>
