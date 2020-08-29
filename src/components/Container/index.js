@@ -2,6 +2,7 @@ import React, { Component } from "react"
 import API from "../../utils/API"
 import TableData from "../TableData"
 import SearchBox from "../SearchBox";
+import "./style.css"
 
 
 class Container extends Component {

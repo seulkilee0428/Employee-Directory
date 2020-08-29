@@ -1,0 +1,19 @@
+header {
+    padding: 15px;
+    margin-top: 20px;
+    background-color: rgb(245, 245, 245);
+}
+
+
+h1{
+    letter-spacing: 1px;
+    font-size: 60px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-weight: lighter;
+    text-shadow: rgb(102, 102, 102) 1px 1px 1px;   
+    color: black
+ }
+
+ p{
+     font-size: 20px;
+ }
